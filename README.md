@@ -91,16 +91,16 @@ Note : Replace '/User/levi/go/bin/gf' with the path where gf binary is located i
 $ alias gf='/User/levi/go/bin/gf'
 $ cd ~/.gf/
 
-Note : Paste JSON files(https://github.com/devanshbatham/ParamSpider/tree/master/gf_profiles) in ~/.gf/ folder
+Note : Paste JSON files(https://github.com/alexbieber/BrahmaSpider/tree/master/gf_profiles) in ~/.gf/ folder
 
-Now run ParamSpider and navigate to the output directory
+Now run BrahmaSpider and navigate to the output directory
 
 $ gf redirect domain.txt //for potential open redirect/SSRF parameters
 $ gf xss domain.txt //for potential xss vulnerable parameters
 $ gf potential domain.txt //for xss + ssrf + open redirect parameters
 $ gf wordpress domain.txt //for wordpress urls
 
-[More GF profiles to be added in future]
+[More GF profiles to be added soon!]
 ```
 
   
@@ -108,14 +108,12 @@ $ gf wordpress domain.txt //for wordpress urls
 ## Example :
 
 ```
-$ python3 paramspider.py --domain bugcrowd.com --exclude woff,css,js,png,svg,php,jpg --output bugcrowd.txt
+$ python3 brahmaspider.py --domain loveyou3000.com --exclude woff,css,js,png,svg,php,jpg --output loveyou3000.txt
 ```
 
   
 
-![](https://raw.githubusercontent.com/devanshbatham/ParamSpider/master/static/example.PNG)
 
-  
 
 #### Note :
 
@@ -124,10 +122,10 @@ As it fetches the parameters from web archive data ,
 so chances of false positives are high.
 ```
 
-### Contributing to ParamSpider :
+### Contributing to BrahmaSpider :
 
  - Report bugs , missing best practices 
- - Shoot my [DM](https://twitter.com/0xAsm0d3us) with new ideas 
+ - Shoot my [DM](https://twitter.com/alexbieber12341) with new ideas 
  - Make more GF profiles (.json files)
  - Help in Fixing bugs
  - Submit Pull requests 
@@ -138,11 +136,11 @@ so chances of false positives are high.
 ### My Twitter :
 
 
-**Say hello** : [0xAsm0d3us](https://twitter.com/0xAsm0d3us)
+**Say Hyy** : [alexbieber12341](https://twitter.com/alexbieber12341)
 
   
 ## __Want to support my work?__
-If you think my work has added some value to your existing knowledge, then you can [Buy me a Coffee here](https://www.buymeacoffee.com/Asm0d3us) (and who doesn't loves a good cup of coffee?')
+If you think my work has added some value to your existing knowledge, then you can [Buy me a Coffee here](https://www.buymeacoffee.com/alexbieber) (and who doesn't loves a good cup of coffee?')
 
 
-[![name](https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMS8wOS8wMGU4ZGJjODc0NzI0MmRjYTJmNGJkMmMzMzQ1ODUzZC5wbmdAMzAwd18wZS53ZWJw&creator=Asm0d3us&is_creating=creating%20educational%20cybersecurity%20related%20content.&design_code=1&design_color=%235F7FFF&slug=Asm0d3us)](https://www.buymeacoffee.com/Asm0d3us)
+[![name](https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMS8wOS8wMGU4ZGJjODc0NzI0MmRjYTJmNGJkMmMzMzQ1ODUzZC5wbmdAMzAwd18wZS53ZWJw&creator=alexbieber&is_creating=creating%20educational%20cybersecurity%20related%20content.&design_code=1&design_color=%235F7FFF&slug=alexbieber)](https://www.buymeacoffee.com/alexbieber)
