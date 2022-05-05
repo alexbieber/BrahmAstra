@@ -24,8 +24,8 @@
 
 ### Usage instructions :
 
-```
-Note : Use python 3.7+
+
+# Note : Use python 3.7+
 ```
 $ git clone https://github.com/alexbieber/BrahmaSpider
 ```
