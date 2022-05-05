@@ -16,14 +16,23 @@
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
+<p align="left">
+  <a href="https://www.twitter.com/alexbieber12341">
+      <img src="https://img.shields.io/badge/Twitter-@alexbieber12341-blue?style=plastic&logo=twitter"/>
+  </a>&nbsp;
+  <a href="https://github.com/sponsors/alexbieber">
+      <img src="https://img.shields.io/badge/Sponsor-GitHub-red?style=plastic&logo=github"/>
+  </a>
+</p>
 # YOUR REACTION AFETR USING THIS TOOL :-->
+
 <p align="center">
   <img src="https://c.tenor.com/0Ll8B73iS30AAAAd/girl-shocked.gif">
   </p>
 
   
 
-## BrahmaSpider : Parameter miner for humans --- Enjoy✔
+## BrahmAstra : Parameter miner for humans --- Enjoy✔
 
 ![BrahmaSpider](https://raw.githubusercontent.com/alexbieber/BrahAstra/master/static/banner.PNG)
 
@@ -89,7 +98,7 @@ $ python3 brahmastra.py --domain xyz.com --quiet
 $ python3 brahmastra.py --domain xyz.com --subs False 
 ```
 
-### BrahmaSpider + TomNomNom 'GF' (for massive pwnage)
+### BrahmAstra + TomNomNom 'GF' (for massive pwnage)
 
   
 
@@ -152,12 +161,31 @@ so chances of false positives are high.
  - Submit Pull requests 
 
  
+# SUPPORT -> YOUR MONEY WILL HELP OUT SOO MANY PEOPLE IN NEED!
+<a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+## DONATE YOUR MONEY FOR HELPLESS PEOPLE AROUND THE WORLD! LETS HELP THEM TOGETHER- LOVE YOU 3000❤❤❤❤
+<p>
+  <a href="https://www.paypal.me/alexbieber1234">
+      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
+  </a>
+</p>
+# Donate your money and it will inspire soo many people to live their life.
+
+
+ ## THANKS!  
+   Enjoy ✔
+ ## 
+    🔴🔴🔴🔴  🔴   🔴  🔴 🔴    🔴 🔴   🔴    🔴     🔴  🔴🔴🔴      🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+        🔴      🔴🔴🔴  🔴  🔴    🔴  🔴  🔴    🔴  🔴    🔴__\         🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+        🔴      🔴   🔴 🔴🔴 🔴   🔴   🔴 🔴    🔴🔴 🔴       🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+        🔴      🔴   🔴🔴     🔴   🔴    🔴🔴    🔴     🔴 🔴🔴🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+
+# THANKS FOR USING! LOVE YOU 3000!🔴🔴🔴🔴✔
+
   
 
-### My Twitter :
-
-
-**Say Hyy** : [alexbieber12341](https://twitter.com/alexbieber12341)
 
   
 
