@@ -35,7 +35,7 @@
 
 ## BrahmAstra : Parameter miner for humans --- Enjoy✔
 
-![BrahmAstra](https://raw.githubusercontent.com/alexbieber/BrahAstra/master/static/banner.PNG)
+![BrahmAstra](https://raw.githubusercontent.com/alexbieber/BrahmAstra/master/static/banner.PNG)
 
 ### Important Features :
 
