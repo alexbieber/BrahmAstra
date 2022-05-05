@@ -28,7 +28,7 @@ def main():
     print(banner)
 
     parser = argparse.ArgumentParser(
-        description='BrahmaSpider a parameter discovery suite')
+        description='BrahmaAstra a parameter discovery suite')
     parser.add_argument(
         '-d', '--domain', help='Domain name of the taget [ex : hackerone.com]', required=True)
     parser.add_argument(
