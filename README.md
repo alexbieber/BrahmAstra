@@ -25,7 +25,7 @@
   </a>
 </p>
 
-# LOVE YOU 3000!❤ :--> CAN ENUMERATE SOO MUCH LINK FOR YOU ! AND WAY TOO MUCH !...
+# LOVE YOU 3000!❤ :--> CAN ENUMERATE SOO MUCH LINK FOR YOU ! AND WAY TOO MUCH !....
 
 <p align="center">
   <img src="https://thumbs.gfycat.com/VerifiableSelfishAtlanticblackgoby-size_restricted.gif">
