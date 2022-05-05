@@ -1,7 +1,7 @@
 import re 
 
 
-def brahma_extract(response, level, black_list, placeholder):
+def param_extract(response, level, black_list, placeholder):
 
     ''' 
     Function to extract URLs with parameters (ignoring the black list extention)
