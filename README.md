@@ -1,7 +1,7 @@
 # BrahmAstra--BEST SPIDING TOOL EVER MADE FOR BUG BOUNTY!🔴🔴🔴🔴✔
-# LOVE YOU 3000!❤ :--> CAN ENUMERATE SOO MUCH LINK FOR YOU ! AND WAY TOO MUCH !...
+# YOUR REACTION AFETR USING THIS TOOL :-->
 <p align="center">
-  <img src="https://thumbs.gfycat.com/VerifiableSelfishAtlanticblackgoby-size_restricted.gif">
+  <img src="https://c.tenor.com/0Ll8B73iS30AAAAd/girl-shocked.gif">
   </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge">
@@ -24,17 +24,18 @@
       <img src="https://img.shields.io/badge/Sponsor-GitHub-red?style=plastic&logo=github"/>
   </a>
 </p>
-# YOUR REACTION AFETR USING THIS TOOL :-->
+
+# LOVE YOU 3000!❤ :--> CAN ENUMERATE SOO MUCH LINK FOR YOU ! AND WAY TOO MUCH !...
 
 <p align="center">
-  <img src="https://c.tenor.com/0Ll8B73iS30AAAAd/girl-shocked.gif">
+  <img src="https://thumbs.gfycat.com/VerifiableSelfishAtlanticblackgoby-size_restricted.gif">
   </p>
 
   
 
 ## BrahmAstra : Parameter miner for humans --- Enjoy✔
 
-![BrahmaSpider](https://raw.githubusercontent.com/alexbieber/BrahAstra/master/static/banner.PNG)
+![BrahmAstra](https://raw.githubusercontent.com/alexbieber/BrahAstra/master/static/banner.PNG)
 
 ### Important Features :
 
