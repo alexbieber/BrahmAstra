@@ -1,5 +1,5 @@
 # BrahmAstra--BEST SPIDING TOOL EVER MADE FOR BUG BOUNTY!🔴🔴🔴🔴✔
-# HACKERS NOWDAYS :-->
+#  NEW BUG HUNTERS NOWDAYS :--> RUNNING BEHIND BOUNTIES WITHOUT HAVING BASIC KNOWLEDGE !
 <p align="center">
   <img src="https://images.ctfassets.net/co0pvta7hzrh/2P0gEZfj9V1OJOHgkzK5Qw/a81ea0f954396bf4d86f617314e69ee6/Typeform-Blog-Gifs-Inline03.gif">
   </p>
