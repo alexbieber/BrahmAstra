@@ -1,7 +1,7 @@
 # BrahmAstra--BEST SPIDING TOOL EVER MADE FOR BUG BOUNTY!🔴🔴🔴🔴✔
-# YOUR REACTION AFETR USING THIS TOOL :-->
+# HACKERS NOWDAYS :-->
 <p align="center">
-  <img src="https://c.tenor.com/0Ll8B73iS30AAAAd/girl-shocked.gif">
+  <img src="https://images.ctfassets.net/co0pvta7hzrh/2P0gEZfj9V1OJOHgkzK5Qw/a81ea0f954396bf4d86f617314e69ee6/Typeform-Blog-Gifs-Inline03.gif">
   </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge">
